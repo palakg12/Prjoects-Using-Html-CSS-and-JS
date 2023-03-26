@@ -1,0 +1,20 @@
+label {
+    display: block;
+    margin: 0.5rem 0;
+  }
+  fieldset{
+    background-color: color-darkblue-alpha rgba(27, 27, 50, 0.8);
+    margin:10%;
+  }
+body {
+    background-image: url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
+    font-family: sans-serif;
+    padding: 20px;
+    max-width: 100%;
+  height: auto;
+  color:white;
+  }
+h1,p{
+    text-align:center;
+
+  }
